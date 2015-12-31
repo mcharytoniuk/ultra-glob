@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "bluebird": "^3.1.1",
+    "glob-stream": "^5.3.1",
+    "rx-node": "^1.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  },
+  "description": "Wrapper around glob for ease of use.",
+  "engines": {
+    "node": ">=4.0"
+  },
+  "license": "MIT",
+  "keywords": [
+    "gulp",
+    "eslint"
+  ],
+  "name": "ultra-glob",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mcharytoniuk/ultra-glob.git"
+  },
+  "scripts": {
+    "test": "gulp test"
+  },
+  "version": "1.0.0"
+}
