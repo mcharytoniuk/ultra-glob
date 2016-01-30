@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "bluebird": "^3.1.1",
+    "bluebird": "^3.1.5",
     "glob-stream": "^5.3.1",
     "rx-node": "^1.0.1"
   },
@@ -13,8 +13,8 @@
   },
   "license": "MIT",
   "keywords": [
-    "gulp",
-    "eslint"
+    "glob",
+    "promise"
   ],
   "name": "ultra-glob",
   "repository": {
@@ -24,5 +24,5 @@
   "scripts": {
     "test": "gulp test"
   },
-  "version": "1.1.0"
+  "version": "1.1.1"
 }
